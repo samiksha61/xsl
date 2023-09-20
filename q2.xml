@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="product.xsl" type="text/xsl"?>
+<products>
+    <product>
+      <productname>Burger</productname>
+      <category>Fastfood</category>
+      <price>4332</price>
+      <quantity>18</quantity>
+    </product>
+    <product>
+      <productname>Heater</productname>
+      <category>Home Appliance</category>
+      <price>15750</price>
+      <quantity>5</quantity>
+    </product>
+    <product>
+      <productname>Nail Polish</productname>
+      <category>Makeup</category>
+      <price>2300</price>
+      <quantity>12</quantity>
+    </product>
+    <product>
+      <productname>Gown</productname>
+      <category>Clothing</category>
+      <price>55875</price>
+      <quantity>11</quantity>
+    </product>
+    <product>
+      <productname>Perfume</productname>
+      <category>Accessories</category>
+      <price>7800</price>
+      <quantity>25</quantity>
+    </product>
+  </products>
+  

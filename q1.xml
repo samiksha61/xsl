@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="q1.xsl" type="text/xsl"?>
+<employees>
+    <employee>
+        <name>Samiksha</name>
+        <department>BBA</department>
+        <job-title>Operator</job-title>
+        <salary>50000</salary>
+        <email>samikshakalakheti0@gmail.com</email>
+    </employee>
+    <employee>
+        <name>Kaira</name>
+        <department>Finance</department>
+        <job-title>Accountant</job-title>
+        <salary>62000</salary>
+        <email>kairakr784@gmail.com</email>
+    </employee>
+    <employee>
+        <name>Riya</name>
+        <department>Bus Management</department>
+        <job-title>Manager</job-title>
+        <salary>22000</salary>
+        <email>riyakk201@gmail.com</email>
+    </employee>
+</employees>
